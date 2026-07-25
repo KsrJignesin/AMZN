@@ -1,0 +1,18 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.primevideo.com	TRUE	/	FALSE	1795374160	lc-main-av	en_US
+.primevideo.com	TRUE	/	FALSE	1795374160	i18n-prefs	USD
+.primevideo.com	TRUE	/	TRUE	1795374160	session-id-time	2082787201l
+.primevideo.com	TRUE	/	TRUE	1816405475	sst-main-av	Sst1|PQKZzY5b-ETQqGrSHXr2BVr3Bzpk0hcMC3QSz92S6AL8N1V98z4KwaPU_Z3dFaKLqcd4AHfpXx2MozyyqmyKD1uCpxO35JXUFFpT6kAzLDSJE-u06-l23r8IHeD5ql1AJKdO_Ew2yT5-fHOlKEhosydBiNXwNipjoNwjF_iuub5iNJnrk2NrJ3bZkYzJD09tU4rmUKtamCT_ddiyrXLnr6RKEMMn16V1wJK5GPrIDbJ7XjyaeW2bsAAsS7zLNa0FjNON
+.primevideo.com	TRUE	/	TRUE	1795374160	at-main-av	Atza|gQBvD4qUAwEBAlcWXJIFOMDOSh3EmiDwht6aGTCvVbGMVQqy3rad4D07xorSGvhhpvBLIa8wV4ESi8C3zi9QBkiF1jiMzI5Q6nD9vg3HtGsUAA4N-Qvoc8RNdQ_0hQt-Cjl33kmlqDVcd85aVTTCDFkJPTyUw2aS_NhTnnL5iJ8r8yL4YIf6Cwrbdcojy7Nm8RxGllD-sKtOcOCgQobJNv7spE8bEH1tbn2CnnSAklMqDJ3N5gQIGMlI3vYJrertKbtg19nCCojzPGVAa5Y7JqQAbzf3-8ltUyxQHCNExCZ1lTcQW5CD2y4jLtKlTuH3iF73273erYrZDToScqzIhh_Ip2I1BJUWXyZaLw
+.primevideo.com	TRUE	/	TRUE	1795374160	sess-at-main-av	Ywe4HwcBSMTKEl7ESP/sJwXCyL/KtN3WOntlBNX1o10=
+.primevideo.com	TRUE	/	TRUE	1795374160	ubid-main-av	261-8258003-7604539
+.www.primevideo.com	TRUE	/	FALSE	1805560074	csm-hit	tb:F330MMR9F97D40GS4H9T+s-F330MMR9F97D40GS4H9T|1775320074753&t:1775320074753&adb:adblk_yes
+.primevideo.com	TRUE	/	TRUE	1819554145	session-id	258-7532857-0013428
+.primevideo.com	TRUE	/	TRUE	1787461511	av-profile	cGlkPWFtem4xLmFjdG9yLnBlcnNvbi5vaWQuQTJLUUc4S1FPUVZHUTAmdGltZXN0YW1wPTE3ODQ4Njk1MTI4MjQmdmVyc2lvbj12MQ.g04qCyvhBxrxs3N2W7r9fRm-0tDRYJSgYzqPg-zHTjvfAAAAAQAAAABqYvKIcmF3AAAAAPgWC9WfHH8iB-olH_E9xQ
+.primevideo.com	TRUE	/	FALSE	1816530151	av-timezone	Asia/Dhaka
+.primevideo.com	TRUE	/	TRUE	1816530142	session-token	"6ar30zSyzyH3c6pAFrZ8aC0cMqfzN7iExcjLwPcNS34/FsJF6Rli7sKnC/7Rz+2GK4Z7XCURFvVyeI2y2oSZxvwfvMh6mLl40UocFEv/deTjmQ/gTlAx4TF5AuEwGrNMi1SjdWmNF7WnUGuL4qJLDngCTeDnmcHwtZjG8LsUPLEJmrfLT1xSuMbXCQ2V1VlbaWeslv42AF/i4SPrbc7N0f7jvBJp85WjuG5J0pTck15LJRQ0HfjoC0zleNNGYSJEyMGJUMYOmCU="
+.primevideo.com	TRUE	/	TRUE	1816530142	x-main-av	"uQg7Sz@24@QDwfQJ8Lg0du@5GowtEm60mvbDAgzafYCfklhFUYgyD0ITfS8Ugx5p"
+www.primevideo.com	FALSE	/	FALSE	1785598942	csm-hit	s-FMH2Q0Z73CH117FGDHAK|1784994142416
